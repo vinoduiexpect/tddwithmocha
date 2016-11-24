@@ -1,0 +1,27 @@
+{
+  "name": "tddwithmocha",
+  "description": "Testing Driven Development with Mocha and Karma",
+  "main": "index.html",
+  "authors": [
+    "Vinod Varma"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "TDD",
+    "Mocha",
+    "Chai",
+    "Karma"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
